@@ -56,34 +56,38 @@ margin-right: 20px;
 
 /* nav bar - Mathew*/
     
-.nav-props{​​​​​
-display: flex;
-justify-content: center;
-align-items: center;
-margin-bottom: 15px;
-background-color: rgb(233, 137, 92);
-}​​​​​
+.nav-props{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: rgb(233, 137, 92);
+}
 
-.nav-props p{​​​​​
-font-size: 2rem;
-font-family: 'Orelega One';
-}​​​​​
-.navItemNo1{​​​​​
-grid-area: nav1;
-}​​​​​
-.navItemNo2{​​​​​
-grid-area: nav2;
-}​​​​​
-.navItemNo3{​​​​​
-grid-area: nav3;
-}​​​​​
-.navItemNo4{​​​​​
-grid-area: nav4;
-}​​​​​
-.navItemNo5{​​​​​
-grid-area: nav5;
-}​​​​​
+.nav-props p{
+    font-size: 2rem;
+    font-family: 'Orelega One';
+}
 
+.navItemNo1{
+    grid-area: nav1;
+}
+
+.navItemNo2{
+    grid-area: nav2;
+}
+
+.navItemNo3{
+    grid-area: nav3;
+}
+
+.navItemNo4{
+    grid-area: nav4;
+}
+
+.navItemNo5{
+    grid-area: nav5;
+}
 
 
 /* main body - Brexter & Benedict*/
