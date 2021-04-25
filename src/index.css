@@ -30,7 +30,29 @@ body{
 
 /* header - Belle */
 
+header{
+grid-area: header;
+display: flex;
+flex-direction: row;
+padding: 10px;
+background-color: rgb(211, 72, 8);;
 
+
+}
+.title {
+margin: auto;
+font-size: 65px;
+letter-spacing: 20px;
+font-family: 'Permanent Marker';
+color: black;
+-webkit-text-fill-color: white;
+-webkit-text-stroke-width: 2px;
+}
+
+.logo {
+height: 100%;
+margin-right: 20px;
+}
 
 /* nav bar - Mathew*/
     
