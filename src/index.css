@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+/* body settings - James */
+
+html,
+body{
+    height: 100vh; 
+    background-color: rgb(211, 72, 8);
+    box-sizing: border-box;
+    margin: auto;
+    
+}
+
+.container{
+    height: 100vh;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 15% 10% 65% 10%;
+    grid-template-areas: 
+        "header header header header header"
+        "nav1 nav2 nav3 nav4 nav5"
+        "main main main photos photos"
+        "footer footer footer footer footer";
+    
+}
+
+/* header - Benedict */
+
+
+
+/* nav bar - Mathew*/
+
+
+
+/* main body - Brexther*/
+
+
+
+/* footer - Belle */
