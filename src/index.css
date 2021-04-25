@@ -172,5 +172,10 @@ width: 30%;
 padding: 1rem;
 }
 
-
-/* footer - Benedict */
+footer{
+grid-area: footer;
+font-family: 'Orelega One';
+font-size: 2rem;
+background-color: rgb(233, 137, 92);
+color: white;
+}
